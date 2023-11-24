@@ -73,5 +73,5 @@
 All this files are a modified version of the official Spotify client, provided as an evaluation version using Spotify API and others. We wrote some code, we modified some. None of the entered codes are purely my own idea (I found inspiration, and then I made it my way and above all simpler and clearer).<br>
 It's for educational purposes only. Use it at your own risk!<br><br>
 By using or contributing to this project, you agree to the terms mentioned.<br><br>
-<strong>By using, you agree to the <a href="/LICENSE">License Terms</a>.</strong>
+<strong>By using, you agree to the <a href="/LICENSE">License Terms</a> as well.</strong>
 <!-- End of the code -->
