@@ -4,7 +4,7 @@
        GitHub: github.com/r3mz0
        Donate: bmc.link/r3mz0
        Discord: @r3mz0 -->
-<h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Android</b></div> </h2>
+<h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Android <a href="#"><img width="20px"src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png"></a></b></div> </h2>
 <a href="https://github.com/r3mz0/" target="_blank"><img src="https://i.imgur.com/DP12h8f.png" /></a>
 
 <h3 align="center"><strong><a href="#requirements">Requirements</a> ║ <a href="#features">Features</a> ║ <a href="#installation--update">Installation</a> ║ <a href="#installation--update">Update</a> ║ <a href="#uninstallation">Uninstall</a> ║ <a href="#you-can-support-me-by-donation">Donate</a> ║ <a href="#disclaimer">Disclaimer</a></strong></h3>
@@ -72,5 +72,6 @@
 
 All this files are a modified version of the official Spotify client, provided as an evaluation version using Spotify API and others. We wrote some code, we modified some. None of the entered codes are purely my own idea (I found inspiration, and then I made it my way and above all simpler and clearer).<br>
 It's for educational purposes only. Use it at your own risk!<br><br>
+By using or contributing to this project, you agree to the terms mentioned.<br><br>
 <strong>By using, you agree to the <a href="/LICENSE">License Terms</a>.</strong>
 <!-- End of the code -->
