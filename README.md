@@ -5,7 +5,7 @@
        Donate: bmc.link/r3mz0
        Discord: @r3mz0 -->
 <h2> <div align="center"><b><a href="#"><img width="20px"src="https://logospng.org/download/spotify/logo-spotify-icon-4096.png"></a> Premium Spotify for Android <a href="#"><img width="20px"src="https://altyra.com/wp-content/uploads/2018/11/android-logo-png-transparent.png"></a></b></div> </h2>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://i.imgur.com/DP12h8f.png" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/r3mz0/banner/main/Banner.png" /></a>
 
 <h3 align="center"><strong><a href="#requirements">Requirements</a> ║ <a href="#features">Features</a> ║ <a href="#installation--update">Installation</a> ║ <a href="#installation--update">Update</a> ║ <a href="#uninstallation">Uninstall</a> ║ <a href="#you-can-support-me-by-donation">Donate</a> ║ <a href="#disclaimer">Disclaimer</a></strong></h3>
 
